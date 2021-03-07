@@ -1,0 +1,172 @@
+age,sex,city,date
+91,female,Or Yehuda,04/11/2020
+86,female,Azor,4/14/2020
+82,male,Eilat,4/18/2020
+72,male,Ashdod,3/31/2020
+76,male,Ashkelon,04/03/2020
+77,male,Ashkelon,04/02/2020
+80,male,Bakah Al Garbia,4/19/2020
+97,male,Beer Sheva,4/19/2020
+82,female,Beer Sheva,4/15/2020
+85,female,Beer Sheva,04/10/2020
+83,male,Beer Sheva,04/09/2020
+96,male,Beer Sheva,04/08/2020
+97,male,Beer Sheva,04/07/2020
+96,female,Beer Sheva,04/07/2020
+90,female,Beer Sheva,04/06/2020
+85,female,Beer Sheva,04/04/2020
+89,female,Beer Sheva,04/04/2020
+68,female,Beer Sheva,04/04/2020
+99,female,Beer Sheva,04/01/2020
+94,male,Beer Sheva,3/26/2020
+76,female,Beit Shemesh,4/19/2020
+53,female,Beit Shemesh,04/11/2020
+88,female,Bnei Brak,4/18/2020
+87,male,Bnei Brak,4/18/2020
+91,female,Bnei Brak,4/17/2020
+70,male,Bnei Brak,4/17/2020
+77,male,Bnei Brak,4/15/2020
+97,female,Bnei Brak,4/13/2020
+91,male,Bnei Brak,04/12/2020
+72,male,Bnei Brak,04/08/2020
+72,male,Bnei Brak,04/08/2020
+81,male,Bnei Brak,04/07/2020
+91,male,Bnei Brak,04/02/2020
+95,male,Bnei Brak,04/01/2020
+83,male,Bnei Brak,3/26/2020
+40,female,Barkan,4/13/2020
+90,female,Bat Yam,4/18/2020
+71,female,Bat Yam,4/17/2020
+87,female,Bat Yam,4/16/2020
+83,male,Bat Yam,4/14/2020
+82,male,Bat Yam,4/14/2020
+91,male,Bat Yam,04/07/2020
+72,female,Bat Yam,04/06/2020
+61,female,Bat Yam,04/05/2020
+70,female,Bat Yam,04/03/2020
+67,male,Bat Yam,04/01/2020
+80,male,Bat Yam,3/27/2020
+68,female,Bat Yam,3/24/2020
+94,male,Dganya a,04/01/2020
+72,male,Herzliya,4/19/2020
+73,male,Herzliya,4/15/2020
+89,male,Hadera,04/10/2020
+87,female,Holon,04/06/2020
+89,female,Holon,04/04/2020
+74,male,Holon,04/03/2020
+91,male,Holon,3/31/2020
+66,male,Haifa,4/17/2020
+71,male,Haifa,4/15/2020
+74,male,Haifa,3/27/2020
+65,female,Tveria,4/14/2020
+63,male,Tveria,04/11/2020
+86,male,Tveria,04/09/2020
+90,female,Tveria,04/09/2020
+96,female,Tveria,04/07/2020
+72,male,Tveria,4/19/2020
+90,female,Tamra,04/12/2020
+94,female,Yabniel,04/12/2020
+87,female,Yabniel,04/09/2020
+76,male,Yehud,3/25/2020
+30,female,Jerusalem,4/19/2020
+99,female,Jerusalem,4/18/2020
+78,female,Jerusalem,4/18/2020
+94,male,Jerusalem,4/18/2020
+93,female,Jerusalem,4/17/2020
+84,female,Jerusalem,4/17/2020
+96,female,Jerusalem,4/17/2020
+90,female,Jerusalem,4/16/2020
+84,female,Jerusalem,4/15/2020
+72,female,Jerusalem,4/15/2020
+83,male,Jerusalem,4/14/2020
+87,male,Jerusalem,4/14/2020
+91,male,Jerusalem,4/14/2020
+85,female,Jerusalem,4/13/2020
+92,female,Jerusalem,4/13/2020
+79,male,Jerusalem,04/12/2020
+79,male,Jerusalem,04/12/2020
+91,female,Jerusalem,04/11/2020
+84,female,Jerusalem,04/11/2020
+80,male,Jerusalem,04/10/2020
+92,female,Jerusalem,04/10/2020
+84,female,Jerusalem,04/10/2020
+86,female,Jerusalem,04/10/2020
+84,female,Jerusalem,04/09/2020
+76,male,Jerusalem,04/09/2020
+65,male,Jerusalem,04/09/2020
+90,female,Jerusalem,04/08/2020
+91,female,Jerusalem,04/06/2020
+78,male,Jerusalem,04/06/2020
+98,female,Jerusalem,04/05/2020
+63,male,Jerusalem,04/05/2020
+98,female,Jerusalem,04/04/2020
+98,female,Jerusalem,04/02/2020
+84,male,Jerusalem,04/02/2020
+98,female,Jerusalem,04/02/2020
+73,male,Jerusalem,04/01/2020
+69,female,Jerusalem,04/01/2020
+93,male,Jerusalem,3/29/2020
+84,female,Jerusalem,3/29/2020
+90,female,Jerusalem,3/26/2020
+87,male,Jerusalem,3/24/2020
+88,male,Jerusalem,3/20/2020
+62,male,Kfar yabz,4/18/2020
+91,female,Kfar Saba,04/08/2020
+67,female,Lod,04/01/2020
+50,female,Lod,3/31/2020
+95,male,Migdal,04/11/2020
+92,female,Migdal,04/09/2020
+64,male,Meitar,04/08/2020
+92,female,Nof Galil,4/13/2020
+81,female,Nof Galil,04/12/2020
+78,male,Nof Galil,04/02/2020
+75,female,Nahshon,4/16/2020
+86,male,Nesher,04/08/2020
+82,female,Netivot,04/10/2020
+84,male,Natanya,4/13/2020
+77,male,Natanya,04/08/2020
+73,male,Natanya,04/03/2020
+85,female,Afula,4/19/2020
+76,female,Afula,4/17/2020
+96,female,Afula,04/09/2020
+78,male,Araba,4/13/2020
+88,male,Poria,4/15/2020
+75,male,Pardes Hana,04/03/2020
+38,male,Petah Tikva,04/07/2020
+87,female,Petah Tikva,04/05/2020
+87,male,Petah Tikva,3/24/2020
+82,female,Zfat,4/16/2020
+76,male,Kiryat Ono,4/19/2020
+78,male,Kiryat gat,04/02/2020
+68,female,Kiryat Yam,04/07/2020
+83,female,Rosh aayin,04/10/2020
+98,female,Rishon Le Zion,4/16/2020
+81,male,Rishon Le Zion,04/05/2020
+96,female,Rishon Le Zion,04/05/2020
+51,female,Rishon Le Zion,3/30/2020
+99,male,Rehovot,3/29/2020
+67,male,Ramla,04/06/2020
+92,female,Ramla,3/31/2020
+90,female,Ramat Gan,4/17/2020
+84,male,Ramat Gan,4/15/2020
+87,male,Ramat Gan,4/15/2020
+81,female,Ramat Gan,04/12/2020
+76,male,Ramat Gan,04/08/2020
+75,female,Ramat Gan,04/06/2020
+77,female,Ramat Gan,3/26/2020
+88,male,Ramat Hasharon,04/02/2020
+91,female,Raanana,4/16/2020
+86,male,Raanana,4/16/2020
+94,male,Raanana,4/15/2020
+87,male,Raanana,4/13/2020
+78,male,Sde Ilan,4/18/2020
+77,female,Devora,04/09/2020
+82,male,Tel Aviv,4/18/2020
+80,male,Tel Aviv,4/15/2020
+71,female,Tel Aviv,4/15/2020
+76,female,Tel Aviv,4/15/2020
+89,female,Tel Aviv,4/14/2020
+91,male,Tel Aviv,04/02/2020
+73,male,Tel Aviv,04/02/2020
+75,male,Tel Aviv,04/01/2020
+92,female,Tel Aviv,3/26/2020
